@@ -2,7 +2,7 @@
 	EXPORT sample
 sample
 	LDR R0 ,= ARRAY
-	LDR R1 ,= 0x00000008
+	LDR R1 ,= 0x00000007
 	
 	LDR R2,[R0]
 loop
